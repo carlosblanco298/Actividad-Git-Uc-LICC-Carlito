@@ -13,4 +13,6 @@
 
 <b>Manejo de git</b>: Encargado de crear el repositorio en <i>GitHub</i> y manejar la subida de los archivos con ayuda de <i>Git<i>.
 
+<b>Crear archivo LaTex</b>: Encargado de redactar el archivo <i>LaTex</i> que describe el funcionamiento del programa.
+
 
